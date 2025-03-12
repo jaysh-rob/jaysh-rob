@@ -4,7 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Cloud Engineer
 --------------
 
-I’m currently working on Cloud Infrastructure Automation & Security 👯 I’m looking to collaborate on DevOps, AWS, and Security-focused projects 🤝 I’m looking for help with Scaling Kubernetes clusters & Advanced Security Practices 🌱 I’m currently learning Ansible, Terraform, and Advanced CI/CD automation 💬 Ask me about AWS, DevOps, Linux, Security, and Scripting (Python & Bash) ⚡ Fun fact: I love automating boring tasks and breaking things to make them more secure!
+I’m currently working on Cloud Infrastructure Automation & Security 
+👯 I’m looking to collaborate on DevOps, AWS, and Security-focused projects 
+🤝 I’m looking for help with Scaling Kubernetes clusters & Advanced Security Practices 
+🌱 I’m currently learning Ansible, Terraform, and Advanced CI/CD automation 
+💬 Ask me about AWS, DevOps, Linux, Security, and Scripting (Python & Bash) 
+⚡ Fun fact: I love automating boring tasks and breaking things to make them more secure!
 
 *   🌍  I'm based in Ireland,Dublin
 *   ✉️  You can contact me at [dvlshukla@gmail.com](mailto:dvlshukla@gmail.com)
