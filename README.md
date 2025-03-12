@@ -1,5 +1,18 @@
-# 💫 About Me:
-## 🌟 Hi, I'm Jay! 🚀<br><br>🔭 I’m currently working on **Cloud Infrastructure Automation & Security**  <br>👯 I’m looking to collaborate on **DevOps, AWS, and Security-focused projects**  <br>🤝 I’m looking for help with **Scaling Kubernetes clusters & Advanced Security Practices**  <br>🌱 I’m currently learning **Ansible, Terraform, and Advanced CI/CD automation**  <br>💬 Ask me about **AWS, DevOps, Linux, Security, and Scripting (Python & Bash)**  <br>⚡ Fun fact: **I love automating boring tasks and breaking things to make them more secure!** 😄  <br><br>---<br><br>### 🛠️ Tech Stack & Tools  <br>- **Cloud:** AWS ☁️  <br>- **DevOps & CI/CD:** Git, GitHub, Jenkins, GitHub Actions 🔄  <br>- **Containerization & Orchestration:** Docker, Kubernetes 🐳  <br>- **Security:** Trivy, OWASP, Infrastructure Security 🔐  <br>- **Scripting & Automation:** Bash, Python 🐍  <br><br>---<br><br>### 📊 GitHub Stats  <br>![Jay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  <br><br>🌟 **Let's connect and build something amazing!** 🚀<br>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jay
+===========================================================================================================================
+
+Cloud Engineer
+--------------
+
+I’m currently working on Cloud Infrastructure Automation & Security 👯 I’m looking to collaborate on DevOps, AWS, and Security-focused projects 🤝 I’m looking for help with Scaling Kubernetes clusters & Advanced Security Practices 🌱 I’m currently learning Ansible, Terraform, and Advanced CI/CD automation 💬 Ask me about AWS, DevOps, Linux, Security, and Scripting (Python & Bash) ⚡ Fun fact: I love automating boring tasks and breaking things to make them more secure!
+
+*   🌍  I'm based in Ireland,Dublin
+*   ✉️  You can contact me at [dvlshukla@gmail.com](mailto:dvlshukla@gmail.com)
+*   🧠  I'm learning Masters in Cloud Computing### Skills 
+<p align="left">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
+                    </p>
+                    
 
 
 # 💻 Tech Stack:
